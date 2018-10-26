@@ -1,0 +1,6 @@
+package idrisjackson
+
+pkgs = contrib, idrisjvmffi
+
+modules = Mmhelloworld.IdrisJackson.Core,
+          Mmhelloworld.IdrisJackson.Databind
